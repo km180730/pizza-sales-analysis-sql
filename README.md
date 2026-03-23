@@ -1,15 +1,15 @@
 # pizza-sales-analysis-sql
-📊 Pizza Sales Data Analysis using SQL 
+# Pizza Sales Data Analysis using SQL 
 
-🔍 Overview
+# Overview
 
 This project analyzes pizza sales data using SQL to uncover meaningful insights and support business decision-making.
 
-🎯 Objective
+# Objective
 
 Transforming raw data into actionable insights for strategic decision-making.
 
-🗂️ Dataset Description
+# Dataset Description
 
 The dataset includes:
 
@@ -18,11 +18,11 @@ Order Details Table – quantity, pizza ID
 Pizzas Table – size, price
 Pizza Types Table – category, ingredients
 
-🛠️ Tools & Technologies
+# Tools & Technologies
 SQL (MySQL)
 Excel / CSV
 
-📈 Key Insights
+# Key Insights
 💰 Total Revenue: $818K
 🧾 Total Orders: 48,635
 🍕 Top Pizza: Barbecue Chicken
@@ -31,7 +31,7 @@ Excel / CSV
 📦 Most Popular Size: Large (45%)
 📌 SQL Analysis
 
-The project includes SQL queries to:
+# The project includes SQL queries to:
 
 Calculate total revenue
 Identify top-selling pizzas
@@ -41,14 +41,14 @@ Compute rolling revenue
 Rank top pizzas using window functions
 📊 Presentation
 
-The PowerPoint presentation includes:
+# The PowerPoint presentation includes:
 
 KPI summary
 Sales trends
 Category & size distribution
 Business insights and recommendations
 
-💡 Business Recommendations
+# Business Recommendations
 Focus on high-performing categories (Classic pizzas)
 Promote large-size pizzas
 Optimize staffing during peak hours
